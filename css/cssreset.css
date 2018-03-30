@@ -1,0 +1,46 @@
+body,h1,h2,h3,h4,h5,h6,div,form,span,p,textarea,td,dd,dl,ol,ul,input{
+	margin:0; padding:0;
+}
+body,html{
+	height: 100%;
+}
+body{
+	font: 12px "微软雅黑";
+	background:#fff;
+}
+a{
+	color:#333;
+	text-decoration:none;
+}
+a:hover{
+	color:#e23435;
+	
+}
+em,i{
+	font-style: normal;
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+img{
+	border:0;
+	vertical-align: middle;
+	display: block;
+	
+}
+ol,ul,li{
+	list-style: none;
+}
+.clearfix:after{
+	content: ".";
+	display: block;
+	height: 0;
+	overflow: hidden;
+	clear:both;
+}
+
+.center{
+	width:1225px;
+	margin:0 auto;
+}

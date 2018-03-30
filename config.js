@@ -1,0 +1,19 @@
+require.config({
+	// baseUrl:"./js",
+	paths:{
+		"jquery":"js/lib/jquery-1.11.3",
+		//"jqueryMin":"js/plugin/jquery-1.11.3.min",
+		"loop":"js/js/loop",
+		//"city-picker.data":"js/plugin/city-picker.data",
+		//"main":"js/plugin/main",
+		//"city-picker":"js/plugin/city-picker",
+		"insethtml":"js/js/insethtml",
+		"rightBar":"js/js/rightBar",
+		"insertdetails":"js/js/insertdetails",
+		"floor":"js/js/floor",
+		"louceng":"js/js/louceng",
+		"indexlistloop":"js/js/indexlistloop",
+		"uploop":"js/js/uploop",
+		"incar":"js/js/incar"
+	}
+})
